@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi Humans
+Eric here, I love swimming.
